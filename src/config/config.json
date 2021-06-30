@@ -12,13 +12,15 @@
     "password": null,
     "database": "database_test",
     "host": "localhost",
-    "dialect": "postgres"
+    "dialect": "postgres",
+    "port": "5432"
   },
   "production": {
     "username": "root",
     "password": null,
     "database": "database_production",
     "host": "localhost",
-    "dialect": "postgres"
+    "dialect": "postgres",
+    "port": "5432"
   }
 }
